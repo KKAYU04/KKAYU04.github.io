@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dontpanic0404.github.io//sitemap.xml
+Sitemap: https://kkayu04.github.io//sitemap.xml
